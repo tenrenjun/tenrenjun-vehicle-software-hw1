@@ -1,0 +1,2 @@
+first_hw
+-DCATKIN_DEVEL_PREFIX=/home/agilex/work/vehicle-software-hw1/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/work/vehicle-software-hw1/install -G Unix Makefiles
